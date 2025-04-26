@@ -1,0 +1,7 @@
+scripts/
+notes/
+*.py
+*.ipynb
+*.log
+*.tmp
+__pycache__/
